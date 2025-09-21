@@ -1,16 +1,14 @@
-# sqllite
+# Student Manager App
 
-A new Flutter project.
+A simple Flutter app to manage student records using SQLite.
 
-## Getting Started
+## Features
+- Add, edit, delete student records
+- Search students by name or class
+- View student details with profile picture
+- Dark and light theme support
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/ABHIN07D/Student-Mnager.git
